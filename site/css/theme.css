@@ -1,0 +1,11 @@
+* {
+    --clr-background: #000121;
+    --clr-header: #b4b9ff;
+    --clr-header__homelink: #1e1d59;
+    --clr-search: #3a45f6;
+    --clr-search__text--bg: #fff;
+    --clr-search__text--font: #000;
+    --clr-navdate: #fff;
+    --clr-navdate__btn--text: #fff;
+    --clr-navdate__btn--bg: #a3a3a3;
+}
